@@ -1,0 +1,10 @@
+{
+  "appId": "ru.smokeline.app",
+  "appName": "smoke Line",
+  "webDir": "www",
+  "server": {
+    "url": "https://ВАШ-ДОМЕН.ru",
+    "cleartext": false
+  },
+  "backgroundColor": "#07070a"
+}
